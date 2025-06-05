@@ -26,5 +26,7 @@
 ---
 
 ## 🌐 Connect with me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nouran-gouda-37ab25273 ) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nouran-gouda-37ab25273)
+
+
 
